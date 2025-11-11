@@ -51,7 +51,7 @@ def get_db():
     tags=["analytics"],
 )
 async def root():
-    return {"message": "Dedication Corner Forever!!!"}
+    return {"message": "Love You Forever Goufei!!!"}
 
 
 @app.get(
